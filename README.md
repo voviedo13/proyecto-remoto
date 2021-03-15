@@ -2,4 +2,5 @@
 
 ## usando git y github
 
-Vamos a aprender cómo utilizar un repositorio remoto en git
+Vamos a aprender como utilizar un repositorio remoto en git
+y luego veamos como subir cambios
